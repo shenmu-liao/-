@@ -1,0 +1,26 @@
+{
+  "name": "plan-a26",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PLAN-A26 safety-first personal financial operating system.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
